@@ -1,0 +1,6 @@
+.env
+.env.local
+.now
+/node_modules/
+.next/
+*.swp
